@@ -1,5 +1,9 @@
+[![MasterHead](https://jifu-pub-images.oss-ap-southeast-2.aliyuncs.com/202212101252563.png)]()
+
 <h1 align="center">Hi 👋, I'm JiFu</h1>
 <h3 align="center">A passionate full stack developer from NZ</h3>
+
+<img align="right" alt="Coding" width="240" style="border-radius: 120px" src="https://avatars.githubusercontent.com/u/9637137?v=4"/>
 
 - 🔭 I’m currently working on [MEGABIT Tech Ltd](https://github.com/MegabitNZ)
 
