@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MEGABIT Tech Ltd](https://github.com/MegabitNZ)
 
-- 📝 I regularly write articles on [https://www.jifu.io](https://www.jifu.io)
+- 📝 I regularly write articles on [https://www.jifu.io](https://www.jifu.nz)
 
 - 📫 How to reach me **ji.fu@icloud.com**
 
